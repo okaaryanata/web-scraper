@@ -4,7 +4,7 @@
   "description": "",
   "main": "solution.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node solution.js"
   },
   "repository": {
     "type": "git",
@@ -12,9 +12,6 @@
   },
   "author": "Oka Aryanata",
   "license": "ISC",
-  "scripts": {
-    "start": "node solution.js"
-  },
   "bugs": {
     "url": "https://github.com/okaaryanata/web-scraper/issues"
   },
