@@ -12,6 +12,9 @@
   },
   "author": "Oka Aryanata",
   "license": "ISC",
+  "scripts": {
+    "start": "node solution.js"
+  },
   "bugs": {
     "url": "https://github.com/okaaryanata/web-scraper/issues"
   },
